@@ -1,0 +1,16 @@
+{
+  "name": "鼻歌メモ",
+  "short_name": "鼻歌メモ",
+  "description": "鼻歌を録音してMIDIに変換する。処理はすべて端末内。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#141414",
+  "theme_color": "#141414",
+  "lang": "ja",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
